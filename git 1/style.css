@@ -7,3 +7,21 @@ header{
 .slide{
     background-color: yellow;
 }
+ul{
+    background-color: rgb(104, 233, 233);
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+li{
+    background-color: skyblue;
+    padding: 12px;
+    font-size: larger;
+    border: 2px solid blue;
+    filter: blur(0px);
+    border-radius: 18px;
+}
