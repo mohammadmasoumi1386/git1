@@ -25,3 +25,10 @@ li{
     filter: blur(0px);
     border-radius: 18px;
 }
+footer{
+    background-color: purple;
+}
+.slide{
+    background-color: red;
+    color: white;
+}
